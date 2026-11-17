@@ -1,0 +1,20 @@
+CORAÇÃO VERMELHO DE PARTÍCULAS — VERSÃO OTIMIZADA
+
+Como atualizar:
+1. Extraia este ZIP.
+2. Abra a pasta coracao_particulas_otimizado.
+3. Substitua os arquivos antigos pelos arquivos desta pasta (ou use a pasta nova inteira).
+4. Abra index.html no navegador.
+
+O que foi otimizado:
+- Quantidade de partículas ajustada à resolução, com limite máximo.
+- Menor resolução interna em telas de alta densidade.
+- Partículas e efeitos em tons vermelhos.
+- Letra B brilhante no centro do coração.
+- Remoção da ordenação das partículas em todos os quadros.
+- Remoção do efeito de sombra individual em milhares de partículas.
+- Cálculos de rotação compartilhados por todas as partículas.
+
+Controles:
+- Arraste para girar.
+- Clique para reiniciar a montagem.
